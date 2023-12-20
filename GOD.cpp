@@ -2,7 +2,7 @@
 #include <random>
 #include <WinUser.h>
 
-// gcc MEMZ.cpp -o MEMZ -mwindows -lgdi32 -lstdc++ -lwinmm
+// gcc GOD.cpp -o GOD -mwindows -lgdi32 -lstdc++ -lwinmm
 
 typedef struct{
     int temp;
