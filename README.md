@@ -1,3 +1,4 @@
 ### God trojan virus
 
-[GOD virus](/MEMZ.cpp)
+Source Code: [GOD virus](/MEMZ.cpp)
+Download: [GOD virus](/MEMZ.exe)
